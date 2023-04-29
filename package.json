@@ -1,0 +1,16 @@
+{
+  "name": "todolist-master",
+  "version": "1.0.0",
+  "description": "A to-do app based on node.js coding ninja project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mrinmoy Dey",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  }
+}
